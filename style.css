@@ -1,7 +1,10 @@
 body {
   font-family: 'Press Start 2P', cursive;
 }
-
+header {
+  height: 7vh;
+  padding-top: 15px;
+}
 a {
   text-decoration: none;
   color: black;
@@ -43,6 +46,11 @@ div div {
 
 .yellow {
   background: yellow;
+}
+
+.cursorAct {
+  background-color: white;
+  border: 2px solid black;
 }
 
 .pallette-white {
